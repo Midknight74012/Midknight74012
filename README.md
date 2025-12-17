@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Midknight74012
+- 👋 Hi, I’m James H.
 - 👀 I’m interested in freelancing work as a 2nd income stream and make ends meet
 - 🌱 I’m currently learning currently HTML/CSS, moving on to JavaScript next, and decide from there. Leaning to either CI/CD or C#
 - 💞️ I’m looking to collaborate on nothing at the moment
